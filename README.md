@@ -8,5 +8,5 @@ The structure is simple - each folder corresponds to the video number in the cou
 
 Under that folder will be the files referenced in that section of the course.
 
-For example, if the video number in the course is 22, then the files for that section of the course is in the folder video22.
+For example, if the video number in the course is 21, then the files for that section of the course is in the folder that starts with 22-.
 
